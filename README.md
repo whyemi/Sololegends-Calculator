@@ -17,7 +17,7 @@ Instala las dependencias necesarias con:
 
 ```bash
 pip install pytz tzdata
-
+```
 ## 📌 Uso
 
 Ejecuta la aplicación:
